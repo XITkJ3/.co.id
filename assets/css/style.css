@@ -370,8 +370,8 @@ section {
 }
 
 #about .section-title p {
-    text align : justify;
-    font-family : Times New Roman;
+    text-align: justify;
+    font-family: Times New Roman;
 }
   
 /*--------------------------------------------------------------
