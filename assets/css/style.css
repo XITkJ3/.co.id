@@ -370,7 +370,7 @@ section {
 }
 
 #about .section-title p {
-    text aligt : center;
+    text align : justify;
     font-family : Times New Roman;
 }
   
