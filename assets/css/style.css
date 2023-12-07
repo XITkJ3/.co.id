@@ -369,6 +369,11 @@ section {
   margin-bottom: 0;
 }
 
+#about .section-title p {
+    text aligt : center;
+    font-family : Times New Roman;
+}
+  
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
